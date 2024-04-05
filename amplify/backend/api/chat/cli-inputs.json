@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "paths": {
+    "/chat": {
+      "name": "/chat",
+      "lambdaFunction": "handleChat",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/recommendations": {
+      "name": "/recommendations",
+      "lambdaFunction": "handleRecommendations",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

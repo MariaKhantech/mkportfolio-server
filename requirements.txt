@@ -1,0 +1,5 @@
+mangum==0.14.0
+fastapi==0.87.0
+pyPDF2==3.0.1
+openai==1.10.0
+```

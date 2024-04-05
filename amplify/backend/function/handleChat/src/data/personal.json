@@ -1,0 +1,111 @@
+{
+  "name": "Maria Khan",
+  "age": 37,
+  "kids": [
+    {
+      "age": 8
+    },
+    {
+      "age": 5
+    }
+  ],
+  "pets": [
+    {
+      "type": "dog",
+      "name": "Zoey",
+      "breed": "Mini Australian Shepherd"
+    },
+    {
+      "type": "dog",
+      "name": "Winnie",
+      "breed": "Cavapoo"
+    },
+    {
+      "type": "Reptile",
+      "name": "Mango",
+      "breed": "Bearded Dragon"
+    },
+    {
+      "type": "arachnid",
+      "name": "Lily",
+      "breed": "Regal Jumping Spider"
+    },
+    {
+      "type": "arachnid",
+      "name": "Emberlyn",
+      "breed": "Regal Jumping Spider"
+    },
+    {
+      "type": "arachnid",
+      "name": "No Name",
+      "breed": "Tarantula"
+    }
+  ],
+  "partner": "none",
+  "siblings": "6",
+  "hobbies": [
+    "Learning",
+    "Documentaries",
+    "Paint nites",
+    "Ice skating",
+    "Swimming",
+    "Anime",
+    "Movies",
+    "Amusement parks",
+    "The beach",
+    "Quality time with people I care about",
+    "Technology",
+    "AI"
+  ],
+  "race": "Hispanic, Puerto Rican",
+  "gender": "female",
+  "education": "University of New Hampshire - Full stack web development professional certificate",
+  "occupation": "Full stack web developer, Front-end developer, Software engineer",
+  "location": "New Hampshire",
+  "languages": "English",
+  "religion": "spiritual",
+  "beliefs": "I believe in trying to make this world a better place one good deed at a time and strive to be a good person.",
+  "dreamProjects": "To create many apps in my lifetime as a developer that will change lives in a positive direction for people. I want to make a difference.",
+  "techCommunities": [
+    "Women Who Code",
+    "Latina's in Tech",
+    "She+ Geeks Out",
+    "Grace Hopper",
+    "Women In Tech Slack",
+    "Next.js discord, AWS Amplify discord, Three.js games discord, ChatGPT community on discord."
+  ],
+  "topSkills": [
+    "React proficiency",
+    "Soft Skills",
+    "Excellent team player honed through 15 years of collaborative work experience.",
+    "JavaScript proficiency",
+    "Ability to think outside the box as an engineer."
+  ],
+  "favoriteQuote": "The best way to predict the future is to invent it. - Alan Kay",
+  "favoriteTechnologies": [
+    {
+      "technologies": [
+        {
+          "name": "React",
+          "whyIloveThem": "React feels like home. Its component-driven approach and vibrant community make building complex user interfaces intuitive and enjoyable."
+        },
+        {
+          "name": "Next.js",
+          "whyIloveThem": "Next.js is my secret weapon for building performant, SEO-friendly web apps. Its hybrid rendering capabilities offer the flexibility I need to deliver exceptional user experiences."
+        },
+        {
+          "name": "AWS Services",
+          "whyIloveThem": "I'm drawn to the power and scalability of AWS services. Their wide range of tools allows me to build, deploy, and manage robust web solutions."
+        },
+        {
+          "name": "Anything AI-related",
+          "whyIloveThem": "AI has the potential to transform web development as we know it. I'm eager to explore how AI can be used to create more personalized, intelligent, and accessible online experiences."
+        },
+        {
+          "name": "Front-end development",
+          "whyIloveThem": "While I'm a capable full-stack developer, my passion lies in crafting beautiful and intuitive front-end interfaces. I believe the user experience is paramount."
+        }
+      ]
+    }
+  ]
+}

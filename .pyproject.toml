@@ -1,0 +1,24 @@
+[tool.black]
+line-length = 160
+target-version = ['py37']
+exclude = '''
+(
+  /(
+      \.git
+    | \.mypy_cache
+    | \.tox
+    | \.venv
+    | _build
+    | buck-out
+    | build
+    | dist
+  )/
+| \.gitignore
+| \.flake8
+| \.pyc
+| \.pyo
+| \.pyre
+| \.pycache__
+| ./my-layer/python/lib/python3.11/site-packages/*
+)
+'''
